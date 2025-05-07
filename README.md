@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SA7.L07 | Cyber Visionary</title>
+    | Cyber Visionary</title>
     <style>
         :root {
             --primary: #1a1a1a;
@@ -69,7 +69,7 @@
             content: '';
             position: absolute;
             top: -50%;
-            left: 50%;
+            left: -50%;
             width: 200%;
             height: 200%;
             background: linear-gradient(45deg, transparent, var(--accent), transparent);
