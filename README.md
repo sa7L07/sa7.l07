@@ -43,7 +43,6 @@
             left: 2rem;
             font-family: 'Orbitron', sans-serif;
             font-size: 1.8rem;
-            color: var(--accent);
             cursor: pointer;
             z-index: 100;
         }
